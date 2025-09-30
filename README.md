@@ -49,6 +49,3 @@ Bu projede kullanılan başlıca teknolojiler:
 
 
 
-Eğer istersen ben bu README’i senin projenin koduna özel hâle getiririm (örneğin, projendeki mevcut controller’lar, modeller, endpoint’ler bazında). İster miyim hazır bir İngilizce versiyon da çıkarayım?
-::contentReference[oaicite:0]{index=0}
-```
